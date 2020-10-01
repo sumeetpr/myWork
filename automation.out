@@ -1,0 +1,471 @@
+2020-04-121 21:04:656 INFO  loggerHelper :26 - logger got activated
+2020-04-121 21:04:658 INFO  loggerHelper :27 - logger got activated
+2020-04-121 21:04:658 INFO  loggerHelper :28 - logger got activated
+2020-04-121 21:04:902 INFO  loggerHelper :26 - logger got activated
+2020-04-121 21:04:904 INFO  loggerHelper :27 - logger got activated
+2020-04-121 21:04:904 INFO  loggerHelper :28 - logger got activated
+2020-04-121 21:04:110 INFO  loggerHelper :26 - logger got activated
+2020-04-121 21:04:112 INFO  loggerHelper :27 - logger got activated
+2020-04-121 21:04:113 INFO  loggerHelper :28 - logger got activated
+2020-04-121 22:04:568 INFO  loggerHelper :28 - logger got activated
+2020-04-121 22:04:570 INFO  loggerHelper :29 - logger got activated
+2020-04-121 22:04:571 INFO  loggerHelper :30 - logger got activated
+2020-05-131 12:05:572 INFO  Retry :21 - Retry testtestloginswith statusnull01times.
+2020-05-131 12:05:584 INFO  Retry :21 - Retry testtestloginswith statusnull11times.
+2020-05-131 12:05:594 INFO  Retry :21 - Retry testtestloginswith statusnull21times.
+2020-05-131 12:05:625 INFO  Retry :21 - Retry testtestloginswith statusnull01times.
+2020-05-131 12:05:637 INFO  Retry :21 - Retry testtestloginswith statusnull11times.
+2020-05-131 12:05:647 INFO  Retry :21 - Retry testtestloginswith statusnull21times.
+2020-05-131 12:05:908 INFO  Retry :21 - Retry testtestloginswith statusnull01times.
+2020-05-131 12:05:927 INFO  Retry :21 - Retry testtestloginswith statusnull01times.
+2020-05-131 12:05:937 INFO  Retry :21 - Retry testtestloginswith statusnull11times.
+2020-05-131 12:05:942 INFO  Retry :21 - Retry testtestloginswith statusnull21times.
+2020-05-131 12:05:957 INFO  Retry :21 - Retry testtestloginswith statusnull01times.
+2020-05-131 12:05:970 INFO  Retry :21 - Retry testtestloginswith statusnull11times.
+2020-05-131 12:05:977 INFO  Retry :21 - Retry testtestloginswith statusnull21times.
+2020-05-137 16:05:493 INFO  Retry :107 - Status updated..
+2020-05-137 16:05:890 INFO  Retry :107 - Status updated..
+2020-05-137 16:05:595 INFO  Retry :107 - Status updated..
+2020-05-137 16:05:665 INFO  Retry :107 - Status updated..
+2020-05-137 16:05:724 INFO  Retry :107 - Status updated..
+2020-05-137 16:05:865 INFO  Retry :121 - Status updated..
+2020-05-139 20:05:225 INFO  Retry :21 - Retry testtestloginswith statusnull01times.
+2020-05-139 20:05:240 INFO  Retry :21 - Retry testtestloginswith statusnull01times.
+2020-05-139 20:05:243 INFO  Retry :21 - Retry testtestloginswith statusnull11times.
+2020-05-139 20:05:246 INFO  Retry :21 - Retry testtestloginswith statusnull21times.
+2020-05-139 20:05:258 INFO  Retry :21 - Retry testtestloginswith statusnull01times.
+2020-05-139 20:05:261 INFO  Retry :21 - Retry testtestloginswith statusnull11times.
+2020-05-139 20:05:264 INFO  Retry :21 - Retry testtestloginswith statusnull21times.
+2020-05-139 21:05:206 INFO  Retry :21 - Retry testtestloginswith statusnull01times.
+2020-05-139 21:05:230 INFO  Retry :21 - Retry testtestloginswith statusnull01times.
+2020-05-139 21:05:237 INFO  Retry :21 - Retry testtestloginswith statusnull11times.
+2020-05-139 21:05:241 INFO  Retry :21 - Retry testtestloginswith statusnull21times.
+2020-05-139 21:05:256 INFO  Retry :21 - Retry testtestloginswith statusnull01times.
+2020-05-139 21:05:264 INFO  Retry :21 - Retry testtestloginswith statusnull11times.
+2020-05-139 21:05:277 INFO  Retry :21 - Retry testtestloginswith statusnull21times.
+2020-05-145 21:05:57 INFO  TestBase :111 - The driver executable does not exist: F:\POMFramework\POMFramework\src\main\resources\drivers\Chrome.exe
+2020-05-145 21:05:82 INFO  waitHelper :36 - Implicit wait is set to30
+2020-05-145 21:05:138 INFO  TestBase :111 - session not created: This version of ChromeDriver only supports Chrome version 83
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-K2V0T4MV', ip: '169.254.69.23', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.1'
+Driver info: driver.version: ChromeDriver
+remote stacktrace: Backtrace:
+	Ordinal0 [0x01239443+2724931]
+	Ordinal0 [0x01138421+1672225]
+	Ordinal0 [0x01020339+525113]
+	Ordinal0 [0x00FB0B77+68471]
+	Ordinal0 [0x00FAD32C+54060]
+	Ordinal0 [0x00FCCC37+183351]
+	Ordinal0 [0x00FCCA3D+182845]
+	Ordinal0 [0x00FCA94B+174411]
+	Ordinal0 [0x00FB2528+75048]
+	Ordinal0 [0x00FB35A0+79264]
+	Ordinal0 [0x00FB3539+79161]
+	Ordinal0 [0x0114D4D7+1758423]
+	GetHandleVerifier [0x01355D96+1050070]
+	GetHandleVerifier [0x01355AE1+1049377]
+	GetHandleVerifier [0x01360927+1093991]
+	GetHandleVerifier [0x01356396+1051606]
+	Ordinal0 [0x011459D6+1726934]
+	Ordinal0 [0x0114EA4B+1763915]
+	Ordinal0 [0x0114EBB3+1764275]
+	Ordinal0 [0x01164AD5+1854165]
+	BaseThreadInitThunk [0x76268744+36]
+	RtlGetAppContainerNamedObjectPath [0x770D587D+253]
+	RtlGetAppContainerNamedObjectPath [0x770D584D+205]
+
+2020-05-145 21:05:153 INFO  waitHelper :36 - Implicit wait is set to30
+2020-05-145 21:05:225 INFO  waitHelper :36 - Implicit wait is set to30
+2020-05-145 21:05:289 INFO  waitHelper :145 - waiting for page to get load.
+2020-05-145 21:05:298 INFO  waitHelper :147 - Page Loaded.
+2020-05-145 21:05:487 INFO  TestBase :126 - WebDriver initialized1607869297
+2020-05-146 23:05:333 INFO  ExtentListener :61 - fisrttestsuite started.
+2020-05-146 23:05:406 INFO  waitHelper :36 - Implicit wait is set to30
+2020-05-146 23:05:415 INFO  waitHelper :145 - waiting for page to get load.
+2020-05-146 23:05:419 INFO  waitHelper :147 - Page Loaded.
+2020-05-146 23:05:565 INFO  TestBase :141 - WebDriver initialized1338958728
+2020-05-146 23:05:588 INFO  ExtentListener :19 - testloginsTest started.
+2020-05-146 23:05:600 INFO  ExtentListener :35 - testloginsTest failed.
+2020-05-146 23:05:607 INFO  ExtentListener :19 - testloginsTest started.
+2020-05-146 23:05:614 INFO  ExtentListener :35 - testloginsTest failed.
+2020-05-146 23:05:617 INFO  ExtentListener :19 - testloginsTest started.
+2020-05-146 23:05:622 INFO  ExtentListener :35 - testloginsTest failed.
+2020-05-146 23:05:639 INFO  ExtentListener :19 - loginTest started.
+2020-05-146 23:05:390 INFO  ExtentListener :27 - loginTest Success.
+2020-05-146 23:05:218 INFO  ExtentListener :69 - fisrttestTest finished.
+2020-05-146 23:05:193 INFO  ExtentListener :61 - fisrttestsuite started.
+2020-05-146 23:05:166 INFO  waitHelper :36 - Implicit wait is set to30
+2020-05-146 23:05:181 INFO  waitHelper :145 - waiting for page to get load.
+2020-05-146 23:05:186 INFO  waitHelper :147 - Page Loaded.
+2020-05-146 23:05:328 INFO  TestBase :141 - WebDriver initialized1338958728
+2020-05-146 23:05:382 INFO  ExtentListener :19 - testloginsTest started.
+2020-05-146 23:05:399 INFO  ExtentListener :35 - testloginsTest failed.
+2020-05-146 23:05:408 INFO  ExtentListener :19 - testloginsTest started.
+2020-05-146 23:05:418 INFO  ExtentListener :35 - testloginsTest failed.
+2020-05-146 23:05:422 INFO  ExtentListener :19 - testloginsTest started.
+2020-05-146 23:05:433 INFO  ExtentListener :35 - testloginsTest failed.
+2020-05-146 23:05:454 INFO  ExtentListener :19 - loginTest started.
+2020-05-146 23:05:237 INFO  ExtentListener :27 - loginTest Success.
+2020-05-146 23:05:132 INFO  ExtentListener :69 - fisrttestTest finished.
+2020-05-146 23:05:997 INFO  ExtentListener :61 - fisrttestsuite started.
+2020-05-146 23:05:909 INFO  waitHelper :36 - Implicit wait is set to30
+2020-05-146 23:05:916 INFO  waitHelper :145 - waiting for page to get load.
+2020-05-146 23:05:921 INFO  waitHelper :147 - Page Loaded.
+2020-05-146 23:05:59 INFO  TestBase :141 - WebDriver initialized1338958728
+2020-05-146 23:05:143 INFO  ExtentListener :19 - testloginsTest started.
+2020-05-146 23:05:169 INFO  ExtentListener :35 - testloginsTest failed.
+2020-05-146 23:05:929 INFO  ExtentListener :19 - testloginsTest started.
+2020-05-146 23:05:936 INFO  ExtentListener :35 - testloginsTest failed.
+2020-05-146 23:05:944 INFO  ExtentListener :19 - testloginsTest started.
+2020-05-146 23:05:948 INFO  ExtentListener :35 - testloginsTest failed.
+2020-05-146 23:05:954 INFO  ExtentListener :19 - loginTest started.
+2020-05-146 23:05:956 INFO  ExtentListener :35 - loginTest failed.
+2020-05-146 23:05:16 INFO  ExtentListener :69 - fisrttestTest finished.
+2020-05-146 23:05:329 INFO  ExtentListener :61 - fisrttestsuite started.
+2020-05-146 23:05:172 INFO  waitHelper :36 - Implicit wait is set to30
+2020-05-146 23:05:180 INFO  waitHelper :145 - waiting for page to get load.
+2020-05-146 23:05:185 INFO  waitHelper :147 - Page Loaded.
+2020-05-146 23:05:328 INFO  TestBase :141 - WebDriver initialized1338958728
+2020-05-146 23:05:420 INFO  ExtentListener :19 - testloginsTest started.
+2020-05-146 23:05:436 INFO  ExtentListener :35 - testloginsTest failed.
+2020-05-146 23:05:185 INFO  ExtentListener :19 - testloginsTest started.
+2020-05-146 23:05:191 INFO  ExtentListener :35 - testloginsTest failed.
+2020-05-146 23:05:207 INFO  ExtentListener :19 - testloginsTest started.
+2020-05-146 23:05:210 INFO  ExtentListener :35 - testloginsTest failed.
+2020-05-146 23:05:223 INFO  ExtentListener :19 - loginTest started.
+2020-05-146 23:05:226 INFO  ExtentListener :35 - loginTest failed.
+2020-05-146 23:05:278 INFO  ExtentListener :69 - fisrttestTest finished.
+2020-05-146 23:05:795 INFO  ExtentListener :61 - fisrttestsuite started.
+2020-05-146 23:05:724 INFO  waitHelper :36 - Implicit wait is set to30
+2020-05-146 23:05:731 INFO  waitHelper :145 - waiting for page to get load.
+2020-05-146 23:05:736 INFO  waitHelper :147 - Page Loaded.
+2020-05-146 23:05:876 INFO  TestBase :141 - WebDriver initialized1338958728
+2020-05-146 23:05:953 INFO  ExtentListener :19 - testloginsTest started.
+2020-05-146 23:05:969 INFO  ExtentListener :35 - testloginsTest failed.
+2020-05-146 23:05:728 INFO  ExtentListener :19 - testloginsTest started.
+2020-05-146 23:05:737 INFO  ExtentListener :35 - testloginsTest failed.
+2020-05-146 23:05:750 INFO  ExtentListener :19 - testloginsTest started.
+2020-05-146 23:05:756 INFO  ExtentListener :35 - testloginsTest failed.
+2020-05-146 23:05:770 INFO  ExtentListener :19 - loginTest started.
+2020-05-146 23:05:778 INFO  ExtentListener :35 - loginTest failed.
+2020-05-146 23:05:824 INFO  ExtentListener :69 - fisrttestTest finished.
+2020-05-146 23:05:456 INFO  ExtentListener :61 - Asuite started.
+2020-05-146 23:05:322 INFO  waitHelper :36 - Implicit wait is set to30
+2020-05-146 23:05:328 INFO  waitHelper :145 - waiting for page to get load.
+2020-05-146 23:05:332 INFO  waitHelper :147 - Page Loaded.
+2020-05-146 23:05:476 INFO  TestBase :141 - WebDriver initialized1521568953
+2020-05-146 23:05:558 INFO  ExtentListener :19 - testloginsTest started.
+2020-05-146 23:05:588 INFO  ExtentListener :35 - testloginsTest failed.
+2020-05-146 23:05:345 INFO  ExtentListener :69 - ATest finished.
+2020-05-146 23:05:346 INFO  ExtentListener :61 - Bsuite started.
+2020-05-146 23:05:827 INFO  waitHelper :36 - Implicit wait is set to30
+2020-05-146 23:05:840 INFO  waitHelper :145 - waiting for page to get load.
+2020-05-146 23:05:849 INFO  waitHelper :147 - Page Loaded.
+2020-05-146 23:05:980 INFO  TestBase :141 - WebDriver initialized929482343
+2020-05-146 23:05:983 INFO  ExtentListener :19 - testloginsTest started.
+2020-05-146 23:05:987 INFO  ExtentListener :35 - testloginsTest failed.
+2020-05-146 23:05:349 INFO  ExtentListener :69 - BTest finished.
+2020-05-146 23:05:351 INFO  ExtentListener :61 - Csuite started.
+2020-05-146 23:05:748 INFO  waitHelper :36 - Implicit wait is set to30
+2020-05-146 23:05:761 INFO  waitHelper :145 - waiting for page to get load.
+2020-05-146 23:05:771 INFO  waitHelper :147 - Page Loaded.
+2020-05-146 23:05:915 INFO  TestBase :141 - WebDriver initialized1133573230
+2020-05-146 23:05:921 INFO  ExtentListener :19 - testloginsTest started.
+2020-05-146 23:05:924 INFO  ExtentListener :35 - testloginsTest failed.
+2020-05-146 23:05:342 INFO  ExtentListener :69 - CTest finished.
+2020-05-146 23:05:344 INFO  ExtentListener :61 - testScriptsuite started.
+2020-05-146 23:05:119 INFO  waitHelper :36 - Implicit wait is set to30
+2020-05-146 23:05:126 INFO  waitHelper :145 - waiting for page to get load.
+2020-05-146 23:05:132 INFO  waitHelper :147 - Page Loaded.
+2020-05-146 23:05:284 INFO  TestBase :141 - WebDriver initialized706604026
+2020-05-146 23:05:293 INFO  ExtentListener :19 - loginTest started.
+2020-05-146 23:05:710 INFO  ExtentListener :27 - loginTest Success.
+2020-05-146 23:05:90 INFO  ExtentListener :69 - testScriptTest finished.
+2020-05-146 23:05:564 INFO  ExtentListener :61 - Asuite started.
+2020-05-146 23:05:592 INFO  ExtentListener :19 - testloginsTest started.
+2020-05-146 23:05:599 INFO  ExtentListener :35 - testloginsTest failed.
+2020-05-146 23:05:630 INFO  ExtentListener :69 - ATest finished.
+2020-05-146 23:05:631 INFO  ExtentListener :61 - Bsuite started.
+2020-05-146 23:05:633 INFO  ExtentListener :19 - testloginsTest started.
+2020-05-146 23:05:636 INFO  ExtentListener :35 - testloginsTest failed.
+2020-05-146 23:05:643 INFO  ExtentListener :69 - BTest finished.
+2020-05-146 23:05:646 INFO  ExtentListener :61 - Csuite started.
+2020-05-146 23:05:648 INFO  ExtentListener :19 - testloginsTest started.
+2020-05-146 23:05:651 INFO  ExtentListener :35 - testloginsTest failed.
+2020-05-146 23:05:659 INFO  ExtentListener :69 - CTest finished.
+2020-05-146 23:05:661 INFO  ExtentListener :61 - testScriptsuite started.
+2020-05-146 23:05:607 INFO  waitHelper :36 - Implicit wait is set to30
+2020-05-146 23:05:628 INFO  waitHelper :145 - waiting for page to get load.
+2020-05-146 23:05:639 INFO  waitHelper :147 - Page Loaded.
+2020-05-146 23:05:793 INFO  TestBase :141 - WebDriver initialized416049054
+2020-05-146 23:05:811 INFO  ExtentListener :19 - loginTest started.
+2020-05-146 23:05:78 INFO  ExtentListener :27 - loginTest Success.
+2020-05-146 23:05:11 INFO  ExtentListener :69 - testScriptTest finished.
+2020-05-146 23:05:772 INFO  ExtentListener :61 - Asuite started.
+2020-05-146 23:05:799 INFO  ExtentListener :19 - testloginsTest started.
+2020-05-146 23:05:807 INFO  ExtentListener :35 - testloginsTest failed.
+2020-05-146 23:05:835 INFO  ExtentListener :69 - ATest finished.
+2020-05-146 23:05:836 INFO  ExtentListener :61 - Bsuite started.
+2020-05-146 23:05:838 INFO  ExtentListener :19 - testloginsTest started.
+2020-05-146 23:05:841 INFO  ExtentListener :35 - testloginsTest failed.
+2020-05-146 23:05:848 INFO  ExtentListener :69 - BTest finished.
+2020-05-146 23:05:850 INFO  ExtentListener :61 - Csuite started.
+2020-05-146 23:05:852 INFO  ExtentListener :19 - testloginsTest started.
+2020-05-146 23:05:857 INFO  ExtentListener :35 - testloginsTest failed.
+2020-05-146 23:05:868 INFO  ExtentListener :69 - CTest finished.
+2020-05-146 23:05:871 INFO  ExtentListener :61 - testScriptsuite started.
+2020-05-146 23:05:855 INFO  waitHelper :36 - Implicit wait is set to30
+2020-05-146 23:05:862 INFO  waitHelper :145 - waiting for page to get load.
+2020-05-146 23:05:866 INFO  waitHelper :147 - Page Loaded.
+2020-05-146 23:05:11 INFO  TestBase :141 - WebDriver initialized108982313
+2020-05-146 23:05:41 INFO  ExtentListener :19 - loginTest started.
+2020-05-146 23:05:208 INFO  ExtentListener :27 - loginTest Success.
+2020-05-146 23:05:981 INFO  ExtentListener :19 - login1Test started.
+2020-05-146 23:05:987 INFO  ExtentListener :35 - login1Test failed.
+2020-05-146 23:05:414 INFO  ExtentListener :19 - login2Test started.
+2020-05-146 23:05:532 INFO  ExtentListener :27 - login2Test Success.
+2020-05-146 23:05:890 INFO  ExtentListener :19 - login3Test started.
+2020-05-146 23:05:892 INFO  ExtentListener :35 - login3Test failed.
+2020-05-146 23:05:217 INFO  ExtentListener :69 - testScriptTest finished.
+2020-05-146 23:05:818 INFO  ExtentListener :61 - Asuite started.
+2020-05-146 23:05:846 INFO  ExtentListener :19 - testloginsTest started.
+2020-05-146 23:05:854 INFO  ExtentListener :35 - testloginsTest failed.
+2020-05-146 23:05:881 INFO  ExtentListener :69 - ATest finished.
+2020-05-146 23:05:882 INFO  ExtentListener :61 - Bsuite started.
+2020-05-146 23:05:884 INFO  ExtentListener :19 - testloginsTest started.
+2020-05-146 23:05:887 INFO  ExtentListener :35 - testloginsTest failed.
+2020-05-146 23:05:897 INFO  ExtentListener :69 - BTest finished.
+2020-05-146 23:05:899 INFO  ExtentListener :61 - Csuite started.
+2020-05-146 23:05:905 INFO  ExtentListener :19 - testloginsTest started.
+2020-05-146 23:05:909 INFO  ExtentListener :35 - testloginsTest failed.
+2020-05-146 23:05:919 INFO  ExtentListener :69 - CTest finished.
+2020-05-146 23:05:921 INFO  ExtentListener :61 - testScriptsuite started.
+2020-05-146 23:05:888 INFO  waitHelper :36 - Implicit wait is set to30
+2020-05-146 23:05:895 INFO  waitHelper :145 - waiting for page to get load.
+2020-05-146 23:05:899 INFO  waitHelper :147 - Page Loaded.
+2020-05-146 23:05:40 INFO  TestBase :141 - WebDriver initialized1851255134
+2020-05-146 23:05:50 INFO  ExtentListener :19 - loginTest started.
+2020-05-146 23:05:833 INFO  ExtentListener :27 - loginTest Success.
+2020-05-146 23:05:931 INFO  ExtentListener :19 - login1Test started.
+2020-05-146 23:05:939 INFO  ExtentListener :43 - login1Test skipped.
+2020-05-146 23:05:949 INFO  ExtentListener :19 - login2Test started.
+2020-05-146 23:05:951 INFO  ExtentListener :43 - login2Test skipped.
+2020-05-146 23:05:968 INFO  ExtentListener :19 - login3Test started.
+2020-05-146 23:05:972 INFO  ExtentListener :43 - login3Test skipped.
+2020-05-146 23:05:991 INFO  ExtentListener :69 - testScriptTest finished.
+2020-05-146 23:05:484 INFO  ExtentListener :61 - Asuite started.
+2020-05-146 23:05:513 INFO  ExtentListener :19 - testloginsTest started.
+2020-05-146 23:05:521 INFO  ExtentListener :35 - testloginsTest failed.
+2020-05-146 23:05:551 INFO  ExtentListener :69 - ATest finished.
+2020-05-146 23:05:553 INFO  ExtentListener :61 - Bsuite started.
+2020-05-146 23:05:555 INFO  ExtentListener :19 - testloginsTest started.
+2020-05-146 23:05:557 INFO  ExtentListener :35 - testloginsTest failed.
+2020-05-146 23:05:565 INFO  ExtentListener :69 - BTest finished.
+2020-05-146 23:05:567 INFO  ExtentListener :61 - Csuite started.
+2020-05-146 23:05:569 INFO  ExtentListener :19 - testloginsTest started.
+2020-05-146 23:05:573 INFO  ExtentListener :35 - testloginsTest failed.
+2020-05-146 23:05:585 INFO  ExtentListener :69 - CTest finished.
+2020-05-146 23:05:586 INFO  ExtentListener :61 - testScriptsuite started.
+2020-05-146 23:05:301 INFO  waitHelper :36 - Implicit wait is set to30
+2020-05-146 23:05:309 INFO  waitHelper :145 - waiting for page to get load.
+2020-05-146 23:05:313 INFO  waitHelper :147 - Page Loaded.
+2020-05-146 23:05:450 INFO  TestBase :141 - WebDriver initialized108982313
+2020-05-146 23:05:462 INFO  ExtentListener :19 - loginTest started.
+2020-05-146 23:05:208 INFO  ExtentListener :27 - loginTest Success.
+2020-05-146 23:05:297 INFO  ExtentListener :19 - login1Test started.
+2020-05-146 23:05:299 INFO  ExtentListener :43 - login1Test skipped.
+2020-05-146 23:05:310 INFO  ExtentListener :19 - login2Test started.
+2020-05-146 23:05:329 INFO  ExtentListener :43 - login2Test skipped.
+2020-05-146 23:05:342 INFO  ExtentListener :19 - login3Test started.
+2020-05-146 23:05:345 INFO  ExtentListener :43 - login3Test skipped.
+2020-05-146 23:05:369 INFO  ExtentListener :69 - testScriptTest finished.
+2020-05-146 23:05:742 INFO  ExtentListener :61 - Asuite started.
+2020-05-146 23:05:770 INFO  ExtentListener :19 - testloginsTest started.
+2020-05-146 23:05:777 INFO  ExtentListener :35 - testloginsTest failed.
+2020-05-146 23:05:803 INFO  ExtentListener :69 - ATest finished.
+2020-05-146 23:05:806 INFO  ExtentListener :61 - Bsuite started.
+2020-05-146 23:05:808 INFO  ExtentListener :19 - testloginsTest started.
+2020-05-146 23:05:811 INFO  ExtentListener :35 - testloginsTest failed.
+2020-05-146 23:05:817 INFO  ExtentListener :69 - BTest finished.
+2020-05-146 23:05:818 INFO  ExtentListener :61 - Csuite started.
+2020-05-146 23:05:822 INFO  ExtentListener :19 - testloginsTest started.
+2020-05-146 23:05:824 INFO  ExtentListener :35 - testloginsTest failed.
+2020-05-146 23:05:832 INFO  ExtentListener :69 - CTest finished.
+2020-05-146 23:05:833 INFO  ExtentListener :61 - testScriptsuite started.
+2020-05-146 23:05:556 INFO  waitHelper :36 - Implicit wait is set to30
+2020-05-146 23:05:564 INFO  waitHelper :145 - waiting for page to get load.
+2020-05-146 23:05:568 INFO  waitHelper :147 - Page Loaded.
+2020-05-146 23:05:716 INFO  TestBase :142 - WebDriver initialized743219449
+2020-05-146 23:05:747 INFO  ExtentListener :19 - loginTest started.
+2020-05-146 23:05:229 INFO  ExtentListener :27 - loginTest Success.
+2020-05-146 23:05:241 INFO  ExtentListener :19 - login1Test started.
+2020-05-146 23:05:328 INFO  ExtentListener :35 - login1Test failed.
+2020-05-146 23:05:332 INFO  ExtentListener :19 - login2Test started.
+2020-05-146 23:05:352 INFO  ExtentListener :35 - login2Test failed.
+2020-05-146 23:05:355 INFO  ExtentListener :19 - login3Test started.
+2020-05-146 23:05:366 INFO  ExtentListener :35 - login3Test failed.
+2020-05-146 23:05:398 INFO  ExtentListener :69 - testScriptTest finished.
+2020-05-146 23:05:782 INFO  ExtentListener :61 - Asuite started.
+2020-05-146 23:05:813 INFO  ExtentListener :19 - testloginsTest started.
+2020-05-146 23:05:819 INFO  ExtentListener :35 - testloginsTest failed.
+2020-05-146 23:05:844 INFO  ExtentListener :69 - ATest finished.
+2020-05-146 23:05:846 INFO  ExtentListener :61 - Bsuite started.
+2020-05-146 23:05:848 INFO  ExtentListener :19 - testloginsTest started.
+2020-05-146 23:05:851 INFO  ExtentListener :35 - testloginsTest failed.
+2020-05-146 23:05:861 INFO  ExtentListener :69 - BTest finished.
+2020-05-146 23:05:864 INFO  ExtentListener :61 - Csuite started.
+2020-05-146 23:05:868 INFO  ExtentListener :19 - testloginsTest started.
+2020-05-146 23:05:873 INFO  ExtentListener :35 - testloginsTest failed.
+2020-05-146 23:05:888 INFO  ExtentListener :69 - CTest finished.
+2020-05-146 23:05:892 INFO  ExtentListener :61 - testScriptsuite started.
+2020-05-146 23:05:608 INFO  waitHelper :36 - Implicit wait is set to30
+2020-05-146 23:05:616 INFO  waitHelper :145 - waiting for page to get load.
+2020-05-146 23:05:620 INFO  waitHelper :147 - Page Loaded.
+2020-05-146 23:05:760 INFO  TestBase :142 - WebDriver initialized1637876401
+2020-05-146 23:05:763 INFO  ExtentListener :19 - loginTest started.
+2020-05-146 23:05:02 INFO  ExtentListener :27 - loginTest Success.
+2020-05-146 23:05:96 INFO  ExtentListener :19 - login1Test started.
+2020-05-146 23:05:99 INFO  ExtentListener :43 - login1Test skipped.
+2020-05-146 23:05:113 INFO  ExtentListener :19 - login2Test started.
+2020-05-146 23:05:115 INFO  ExtentListener :43 - login2Test skipped.
+2020-05-146 23:05:131 INFO  ExtentListener :19 - login3Test started.
+2020-05-146 23:05:132 INFO  ExtentListener :43 - login3Test skipped.
+2020-05-146 23:05:152 INFO  ExtentListener :69 - testScriptTest finished.
+2020-05-146 23:05:332 INFO  ExtentListener :61 - testScriptsuite started.
+2020-05-146 23:05:180 INFO  waitHelper :36 - Implicit wait is set to30
+2020-05-146 23:05:189 INFO  waitHelper :145 - waiting for page to get load.
+2020-05-146 23:05:193 INFO  waitHelper :147 - Page Loaded.
+2020-05-146 23:05:333 INFO  TestBase :142 - WebDriver initialized559050604
+2020-05-146 23:05:352 INFO  ExtentListener :19 - loginTest started.
+2020-05-146 23:05:161 INFO  ExtentListener :27 - loginTest Success.
+2020-05-146 23:05:233 INFO  ExtentListener :19 - login1Test started.
+2020-05-146 23:05:234 INFO  ExtentListener :43 - login1Test skipped.
+2020-05-146 23:05:245 INFO  ExtentListener :19 - login2Test started.
+2020-05-146 23:05:247 INFO  ExtentListener :43 - login2Test skipped.
+2020-05-146 23:05:254 INFO  ExtentListener :19 - login3Test started.
+2020-05-146 23:05:256 INFO  ExtentListener :43 - login3Test skipped.
+2020-05-146 23:05:290 INFO  ExtentListener :69 - testScriptTest finished.
+2020-05-146 23:05:880 INFO  waitHelper :36 - Implicit wait is set to30
+2020-05-146 23:05:889 INFO  waitHelper :145 - waiting for page to get load.
+2020-05-146 23:05:893 INFO  waitHelper :147 - Page Loaded.
+2020-05-146 23:05:33 INFO  TestBase :141 - WebDriver initialized509559152
+2020-05-146 23:05:146 INFO  waitHelper :36 - Implicit wait is set to30
+2020-05-146 23:05:154 INFO  waitHelper :145 - waiting for page to get load.
+2020-05-146 23:05:159 INFO  waitHelper :147 - Page Loaded.
+2020-05-146 23:05:300 INFO  TestBase :141 - WebDriver initialized509559152
+2020-05-146 23:05:855 INFO  waitHelper :36 - Implicit wait is set to30
+2020-05-146 23:05:864 INFO  waitHelper :145 - waiting for page to get load.
+2020-05-146 23:05:868 INFO  waitHelper :147 - Page Loaded.
+2020-05-146 23:05:10 INFO  TestBase :141 - WebDriver initialized727860268
+2020-05-146 23:05:235 INFO  waitHelper :36 - Implicit wait is set to30
+2020-05-146 23:05:247 INFO  waitHelper :145 - waiting for page to get load.
+2020-05-146 23:05:253 INFO  waitHelper :147 - Page Loaded.
+2020-05-146 23:05:390 INFO  TestBase :141 - WebDriver initialized1717739363
+2020-05-146 23:05:713 INFO  waitHelper :36 - Implicit wait is set to30
+2020-05-146 23:05:732 INFO  waitHelper :145 - waiting for page to get load.
+2020-05-146 23:05:737 INFO  waitHelper :147 - Page Loaded.
+2020-05-146 23:05:879 INFO  TestBase :141 - WebDriver initialized138536309
+2020-05-146 23:05:755 INFO  ExtentListener :61 - Test1suite started.
+2020-05-146 23:05:885 INFO  waitHelper :36 - Implicit wait is set to30
+2020-05-146 23:05:892 INFO  waitHelper :145 - waiting for page to get load.
+2020-05-146 23:05:897 INFO  waitHelper :147 - Page Loaded.
+2020-05-146 23:05:36 INFO  TestBase :141 - WebDriver initialized988904418
+2020-05-146 23:05:118 INFO  ExtentListener :19 - loginTest started.
+2020-05-146 23:05:202 INFO  ExtentListener :27 - loginTest Success.
+2020-05-146 23:05:965 INFO  ExtentListener :69 - Test1Test finished.
+2020-05-146 23:05:967 INFO  ExtentListener :61 - Test2suite started.
+2020-05-146 23:05:523 INFO  waitHelper :36 - Implicit wait is set to30
+2020-05-146 23:05:534 INFO  waitHelper :145 - waiting for page to get load.
+2020-05-146 23:05:543 INFO  waitHelper :147 - Page Loaded.
+2020-05-146 23:05:689 INFO  TestBase :141 - WebDriver initialized1251247808
+2020-05-146 23:05:699 INFO  ExtentListener :19 - login1Test started.
+2020-05-146 23:05:753 INFO  ExtentListener :35 - login1Test failed.
+2020-05-146 23:05:215 INFO  ExtentListener :69 - Test2Test finished.
+2020-05-147 00:05:827 INFO  ExtentListener :61 - Test1suite started.
+2020-05-147 00:05:858 INFO  waitHelper :36 - Implicit wait is set to30
+2020-05-147 00:05:865 INFO  waitHelper :145 - waiting for page to get load.
+2020-05-147 00:05:869 INFO  waitHelper :147 - Page Loaded.
+2020-05-147 00:05:09 INFO  TestBase :142 - WebDriver initialized938613108
+2020-05-147 00:05:115 INFO  ExtentListener :19 - loginTest started.
+2020-05-147 00:05:74 INFO  ExtentListener :27 - loginTest Success.
+2020-05-147 00:05:170 INFO  ExtentListener :69 - Test1Test finished.
+2020-05-147 00:05:173 INFO  ExtentListener :61 - Test2suite started.
+2020-05-147 00:05:671 INFO  waitHelper :36 - Implicit wait is set to30
+2020-05-147 00:05:678 INFO  waitHelper :145 - waiting for page to get load.
+2020-05-147 00:05:685 INFO  waitHelper :147 - Page Loaded.
+2020-05-147 00:05:826 INFO  TestBase :142 - WebDriver initialized1445758842
+2020-05-147 00:05:832 INFO  ExtentListener :19 - login1Test started.
+2020-05-147 00:05:625 INFO  ExtentListener :35 - login1Test failed.
+2020-05-147 00:05:109 INFO  ExtentListener :69 - Test2Test finished.
+2020-05-147 00:05:224 INFO  ExtentListener :61 - Test1suite started.
+2020-05-147 00:05:09 INFO  waitHelper :36 - Implicit wait is set to30
+2020-05-147 00:05:16 INFO  waitHelper :145 - waiting for page to get load.
+2020-05-147 00:05:20 INFO  waitHelper :147 - Page Loaded.
+2020-05-147 00:05:158 INFO  TestBase :142 - WebDriver initialized988904418
+2020-05-147 00:05:238 INFO  ExtentListener :19 - loginTest started.
+2020-05-147 00:05:683 INFO  ExtentListener :27 - loginTest Success.
+2020-05-147 00:05:31 INFO  ExtentListener :69 - Test1Test finished.
+2020-05-147 00:05:36 INFO  ExtentListener :61 - Test2suite started.
+2020-05-147 00:05:495 INFO  waitHelper :36 - Implicit wait is set to30
+2020-05-147 00:05:507 INFO  waitHelper :145 - waiting for page to get load.
+2020-05-147 00:05:515 INFO  waitHelper :147 - Page Loaded.
+2020-05-147 00:05:660 INFO  TestBase :142 - WebDriver initialized1694519286
+2020-05-147 00:05:669 INFO  ExtentListener :19 - login1Test started.
+2020-05-147 00:05:425 INFO  ExtentListener :35 - login1Test failed.
+2020-05-147 00:05:973 INFO  ExtentListener :69 - Test2Test finished.
+2020-05-147 00:05:733 INFO  ExtentListener :61 - Test1suite started.
+2020-05-147 00:05:454 INFO  waitHelper :36 - Implicit wait is set to30
+2020-05-147 00:05:462 INFO  waitHelper :145 - waiting for page to get load.
+2020-05-147 00:05:466 INFO  waitHelper :147 - Page Loaded.
+2020-05-147 00:05:605 INFO  TestBase :142 - WebDriver initialized988904418
+2020-05-147 00:05:663 INFO  ExtentListener :19 - loginTest started.
+2020-05-147 00:05:805 INFO  ExtentListener :27 - loginTest Success.
+2020-05-147 00:05:867 INFO  ExtentListener :69 - Test1Test finished.
+2020-05-147 00:05:870 INFO  ExtentListener :61 - Test2suite started.
+2020-05-147 00:05:32 INFO  waitHelper :36 - Implicit wait is set to30
+2020-05-147 00:05:42 INFO  waitHelper :145 - waiting for page to get load.
+2020-05-147 00:05:51 INFO  waitHelper :147 - Page Loaded.
+2020-05-147 00:05:194 INFO  TestBase :142 - WebDriver initialized1694519286
+2020-05-147 00:05:201 INFO  ExtentListener :19 - login1Test started.
+2020-05-147 00:05:240 INFO  ExtentListener :35 - login1Test failed.
+2020-05-147 00:05:838 INFO  ExtentListener :69 - Test2Test finished.
+2020-05-147 00:05:486 INFO  ExtentListener :61 - Test1suite started.
+2020-05-147 00:05:392 INFO  waitHelper :36 - Implicit wait is set to30
+2020-05-147 00:05:399 INFO  waitHelper :145 - waiting for page to get load.
+2020-05-147 00:05:404 INFO  waitHelper :147 - Page Loaded.
+2020-05-147 00:05:541 INFO  TestBase :152 - WebDriver initialized1598898814
+2020-05-147 00:05:581 INFO  ExtentListener :19 - loginTest started.
+2020-05-147 00:05:817 INFO  ExtentListener :27 - loginTest Success.
+2020-05-147 00:05:365 INFO  ExtentListener :69 - Test1Test finished.
+2020-05-147 00:05:370 INFO  ExtentListener :61 - Test2suite started.
+2020-05-147 00:05:571 INFO  waitHelper :36 - Implicit wait is set to30
+2020-05-147 00:05:581 INFO  waitHelper :145 - waiting for page to get load.
+2020-05-147 00:05:591 INFO  waitHelper :147 - Page Loaded.
+2020-05-147 00:05:732 INFO  TestBase :152 - WebDriver initialized1742448147
+2020-05-147 00:05:738 INFO  ExtentListener :19 - login1Test started.
+2020-05-147 00:05:408 INFO  ExtentListener :35 - login1Test failed.
+2020-05-147 00:05:474 INFO  ExtentListener :69 - Test2Test finished.
+2020-05-150 21:05:791 INFO  DataBaseHelper :54 - Failed to create database connection.
+2020-05-150 21:05:254 INFO  DataBaseHelper :54 - Failed to create database connection.
+2020-05-150 21:05:615 INFO  DataBaseHelper :54 - Failed to create database connection.
+2020-05-150 21:05:87 INFO  DataBaseHelper :54 - Failed to create database connection.
+2020-05-150 21:05:44 INFO  DataBaseHelper :54 - Failed to create database connection.
+2020-05-150 21:05:824 INFO  DataBaseHelper :54 - Failed to create database connection.
+2020-05-150 22:05:827 INFO  DataBaseHelper :54 - Failed to create database connection.
+2020-05-151 11:05:556 INFO  DataBaseHelper :54 - Failed to create database connection.
+2020-05-151 15:05:695 INFO  DataBaseHelper :49 - Connected to database...
+2020-05-151 15:05:722 INFO  DataBaseHelper :78 - Executing querySelect *from employee where id = 1
+2020-05-151 16:05:871 INFO  DataBaseHelper :49 - Connected to database...
+2020-05-151 16:05:882 INFO  DataBaseHelper :78 - Executing querySelect *from employee
+2020-05-151 16:05:698 INFO  DataBaseHelper :49 - Connected to database...
+2020-05-151 16:05:661 INFO  DataBaseHelper :78 - Executing querySelect *from employee
+2020-05-151 16:05:15 INFO  DataBaseHelper :49 - Connected to database...
+2020-05-151 16:05:23 INFO  DataBaseHelper :78 - Executing querySelect *from employee
+2020-05-151 17:05:172 INFO  DataBaseHelper :49 - Connected to database...
+2020-05-151 17:05:489 INFO  DataBaseHelper :78 - Executing querySelect *from employee
+2020-05-151 17:05:577 INFO  DataBaseHelper :49 - Connected to database...
+2020-05-151 17:05:585 INFO  DataBaseHelper :78 - Executing querySelect *from employee
+2020-05-151 17:05:649 INFO  DataBaseHelper :49 - Connected to database...
+2020-05-151 17:05:657 INFO  DataBaseHelper :78 - Executing querySelect *from employee
+2020-05-152 12:05:704 INFO  DataBaseHelper :49 - Connected to database...
+2020-05-152 12:05:733 INFO  DataBaseHelper :78 - Executing querySelect *from employee
